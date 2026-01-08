@@ -26,7 +26,7 @@ Follow these steps to regenerate the UML class diagram from the Python code:
 pip install pylint graphviz
 ```
 
-**Note:** The `graphviz` Python package is just a wrapper - you still need to install the actual Graphviz software (see Step 2).
+**Note:** The [`graphviz`](https://pypi.org/project/graphviz/) Python package is just a wrapper - you still need to install the actual Graphviz software (see Step 2).
 
 ### Step 2: Install Graphviz Software
 
